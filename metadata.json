@@ -1,0 +1,6 @@
+{
+  "name": "OmniChat",
+  "description": "Production-grade ChatGPT-like client with configurable custom API endpoints, SSE streaming, dynamic model discovery, local Room history, markdown & syntax highlighting, and attachments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
